@@ -1,6 +1,7 @@
 # Html_-_CSS_Only
 Projects built using html and css only , No javascript.
-This is a solution to the [QR code component challenge on Frontend Mentor].
+![QR-Code Card](https://github.com/user-attachments/assets/1802da79-4636-41d3-ab1e-679094c4d0f1)
+
 
 ## Table of contents
 
